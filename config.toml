@@ -1,0 +1,21 @@
+baseURL = 'https://blog.github.io'
+languageCode = 'en-us'
+title = 'CODE STUFF'
+theme="paper"
+[params]
+  # color style
+  color = 'linen'                 # linen, wheat, gray, light
+
+  # header social icons
+  twitter = '@pentakotalokes3'     # twitter.com/YOUR_TWITTER_ID
+  github = 'pentakotalokesh'       # github.com/YOUR_GITHUB_ID
+  instagram = 'lokesh__pentakota' # instagram.com/YOUR_INSTAGRAM_ID
+
+  # home page profile
+  avatar = 'GRAVATAR_EMAIL'       # Gravatar email or image url(e.g. "https://deno.land/logo.svg")
+  name = 'Lokesh'
+  bio = '#Webdeveloper Dadi Institute of Engineering & Technology'
+
+  # misc
+  disableHLJS = true              # disable requesting highlight.js
+  monoDarkIcon = true             # show monochrome dark mode icon
