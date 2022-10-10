@@ -1,4 +1,4 @@
-baseURL = 'https://blog.github.io'
+baseURL = 'https://pentakotalokesh.github.io/blog.github.io/'
 languageCode = 'en-us'
 title = 'CODE STUFF'
 theme="paper"
